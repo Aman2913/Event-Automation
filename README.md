@@ -40,5 +40,3 @@ Automating the start and stop of EC2 instances through Lambda functions and sche
 For more details and a complete walkthrough, please refer to the original article: [Saving Costs with Precision: Scheduling EC2 Instances for Off-Hours](https://medium.com/@kevinkiruri/saving-costs-with-precision-scheduling-ec2-instances-for-off-hours-348e7a13096f).
 
 ---
-
-*Author: [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/)*
