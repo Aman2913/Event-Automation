@@ -1,6 +1,6 @@
 # README: Scheduling EC2 Instances for Off-Hours
 
-Welcome to the quick guide on how to schedule EC2 Instances for Off-Hours. This README provides a summary of the steps outlined in the [full article](https://medium.com/@kevinkiruri/saving-costs-with-precision-scheduling-ec2-instances-for-off-hours-348e7a13096f), authored by [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/).
+Welcome to the quick guide on how to schedule EC2 Instances for Off-Hours. This README provides a summary of the steps outlined in the [full article].
 
 ## :rocket: Introduction
 
