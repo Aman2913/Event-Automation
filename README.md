@@ -8,7 +8,7 @@ Optimizing resources and reducing operational costs remain paramount goals for o
 
 
 ## Overview
-![Achitecture](https://raw.githubusercontent.com/Aman2913/Event-Automation/tree/main/IaC/terraform/Event-automation.jpg)
+![Achitecture]([https://raw.githubusercontent.com/Aman2913/Event-Automation/tree/main/IaC/terraform/Event-automation.jpg](https://github.com/Aman2913/Event-Automation/blob/main/Event-automation.png))
 
 
 ## :scroll: Step-by-Step Guide
